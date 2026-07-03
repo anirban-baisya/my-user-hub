@@ -318,7 +318,7 @@ function RegisterPage() {
               </p>
               <otpForm.Field name="otp">
                 {(field) => {
-                  const { errors, isTouched } = field.state.meta;
+                  const { errors } = field.state.meta;
                   return (
                     <TextField
                       isInvalid={errors.length > 0}
