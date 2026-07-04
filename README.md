@@ -2,7 +2,7 @@
 
 A React + TypeScript application built with Vite featuring authentication flows and a full Users CRUD table with server-side pagination.
 
-🔗 **Live Demo:** [https://my-user-hub.netlify.app/auth/login](https://my-user-hub.netlify.app/auth/login)
+🔗 **Live Demo:** [https://my-user-hub.netlify.app/](https://my-user-hub.netlify.app/)
 
 ---
 
